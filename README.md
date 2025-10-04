@@ -36,7 +36,7 @@ Repository riêng cho môn Nhập môn công nghệ phần mềm.
 - Họ tên: Hoàng Lê Nguyên Khang
 - MSSV: N23DCPT025
 - Lớp: D23CQPTTK01-N
-- Vai trò: 
+- Vai trò: Developer
 - Email: n23dcpt025@student.ptithcm.edu.vn
 ## 📦 Lab 05 – Tích hợp & Báo cáo
 - Gom tất cả artifacts: Use Case, Sequence, Form Login, Class Diagram

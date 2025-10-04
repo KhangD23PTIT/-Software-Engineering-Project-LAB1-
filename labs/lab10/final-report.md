@@ -70,5 +70,5 @@ Các chức năng chính của hệ thống:
 ---
 
 ## 📎 Nộp bài
-- **GitHub repo**: [điền link repo của bạn]  
+- **GitHub repo**: (https://github.com/KhangD23PTIT/-Software-Engineering-Project-LAB1-/tree/main)
 ---

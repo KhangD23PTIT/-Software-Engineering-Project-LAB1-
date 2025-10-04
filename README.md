@@ -6,9 +6,13 @@ Mục tiêu là áp dụng quy trình phát triển phần mềm, từ phân tí
 
 👥 Thành viên nhóm
 Lương Kim Chi – Vai trò (Leader)
+
 Trương Quỳnh Như– Tester
+
 Hoàng Lê Nguyên Khang – Developer
+
 🎯 Use Case chính
+
 Quản lý người dùng
 Quản lý sản phẩm/dịch vụ
 Xử lý giao dịch
@@ -16,6 +20,7 @@ Báo cáo & thống kê
 (Sơ đồ use case có thể chèn hình ảnh vào đây)
 
 📐 Thiết kế hệ thống
+
 Use Case Diagram: Use Case
 Sequence Diagram: Sequence
 ERD (Entity Relationship Diagram): ERD
